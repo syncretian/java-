@@ -1,4 +1,3 @@
 # java-
-疯狂java课后练习题
+java练习
 
-test github to edit it .
